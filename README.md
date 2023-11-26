@@ -9,3 +9,4 @@ This repository is just for me to record my code and track my progress.
 
 ## Module 2
  - Learning something related java syntax
+ - Control Structure like 'for', 'switch' ...

@@ -1,8 +1,6 @@
-# JavaLearn
-Learning Java though UCB course (Java: Discovering Its Power).
-
-This repository is just for me to record my code and track my progress.
-
+# JavaLearn ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ - Learning Java though UCB course (Java: Discovering Its Power).
+ - This repository is just for me to record my code and track my progress.
 
 ## Module 1: Introduction to the Java Programming Language
  - Learning how to compile

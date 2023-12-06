@@ -9,3 +9,4 @@
  - Learning something related java syntax
  - Control Structure like 'for', 'switch' ...
  - Learning arrays by printing triangles and squares, and modifying array size using arraycopy.
+ - Strings -> .equals & .compareTo

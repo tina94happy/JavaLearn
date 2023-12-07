@@ -90,6 +90,20 @@ public class array {
             }
             System.out.println(); // 換行
         }
+        // review
+        System.out.println("practice and review");
+        int [] array1 = new int[10];
+        for (int num =0; num<10; num++){
+            array1[num] = num+1;
+            System.out.println(array1[num]);
+        }
+
+        int [] temp2 = new int[20];
+        System.arraycopy(array1, 0, temp2, 1, array1.length);
+        for (int num =0; num<20; num++){
+            System.out.println(temp2[num]);
+        }
+
 
     }
 }

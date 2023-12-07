@@ -1,5 +1,7 @@
 package org.example;
 import java.io.*;
+import java.util.Scanner;
+
 public class javaio {
     public static void main(String[] args) throws IOException{
         System.out.println(3); // OK
@@ -8,6 +10,7 @@ public class javaio {
 
         // then, in your main() function:
         BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in), 1);
+
 
         // then, to get a line of user input
         //as a string:
@@ -21,6 +24,7 @@ public class javaio {
         BufferedReader std = new BufferedReader(new InputStreamReader(System.in), 1);
         int number = Integer.parseInt(std.readLine());
         System.out.println(number);
+
 
 
 

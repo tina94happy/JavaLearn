@@ -7,7 +7,6 @@ public class Strings {
         int length = s.length();
         System.out.println(length);
         System.out.println("hallo world".length());
-
         String emptyString = "";
         // i gets "0"
         int i = emptyString.length();

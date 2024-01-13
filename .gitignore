@@ -1,6 +1,12 @@
 # intellij
 *.idea
 
+# document
+*.docx
+*.txt
+*.pptx
+*.pdf
+
 # Compiled class file
 *.class
 
@@ -26,6 +32,4 @@
 hs_err_pid*
 replay_pid*
 
-# document
-*.docx
-*.pdf
+

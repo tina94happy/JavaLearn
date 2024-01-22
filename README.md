@@ -11,3 +11,9 @@
  - Learning arrays by printing triangles and squares, and modifying array size using arraycopy.
  - Strings -> .equals & .compareTo
  - input -> java.io BufferedReader InputStreamReader System.in
+
+## Module 3: Software Organization and Design
+
+## Module 4: Introduction to Objects and Data Structures
+ - Learning contructors & overload & access control using private
+
